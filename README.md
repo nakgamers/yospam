@@ -6,7 +6,7 @@ Run in temux :
 $ pkg update
 $ pkg install php
 $ pkg install git
-$ git clone https://github.com/nakgamers198/yospam.git
+$ git clone https://github.com/nakgamers/yospam.git
 $ cd yospam 
 $ php yospam.php
 $ input nomer (62/08)
@@ -17,7 +17,7 @@ Run in VPS (centos/Ubuntu) :
 $ sudo yum/apt update
 $ sudo yum/apt install php
 $ sudo yum/apt install git
-$ git clone https://github.com/nakgamers198/yospam.git
+$ git clone https://github.com/nakgamers/yospam.git
 $ cd yospam 
 $ php yospam.php
 $ input nomer (62/08)
